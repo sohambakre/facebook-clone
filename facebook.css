@@ -1,0 +1,25 @@
+#div{
+    
+    text-align: center;
+}
+
+#ab{
+    width: 25%;
+    background-color: rgb(209, 212, 212);
+    height: 3000px;
+}
+
+#ac{
+    width: 50%;
+    background-color:whitesmoke;
+    height: 3000px;
+    text-align: left;
+    
+}
+
+#ad{
+    width: 20%;
+    background-color:rgb(218, 247, 229);
+    height: 3000px;
+}
+
